@@ -2,7 +2,8 @@ body {
   background-color: black;
   color: white;
   margin: 200px;
-  font-family: verdana;
+  font-family: sans-serif;
+  font-size: 20px;
 }
 .column-intro {
   float: left;
